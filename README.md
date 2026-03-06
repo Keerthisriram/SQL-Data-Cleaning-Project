@@ -9,7 +9,7 @@
  - 3.Remove Null or Blank spaces
  - 4.Remove unwanted rows or Columns.
 
- - <a href =" https://github.com/Keerthisriram/SQL-Data-Cleaning-Project/blob/main/SQL%20Data%20Cleaning.sql"> SQL data cleaning Process query</a>
+ - <a href ="https://github.com/Keerthisriram/SQL-Data-Cleaning-Project/blob/main/SQL%20Data%20Cleaning.sql"> SQL data cleaning Process query</a>
 
 
 ## Exploratory Data Analysis
